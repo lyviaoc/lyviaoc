@@ -11,9 +11,10 @@
 ### 🧭 About Me
 
 - 🎯 My goal is to become a **Backend Engineer**
-- 🐍 I know **Python** and I've already learned **Git & GitHub**
-- 🐧 Right now I'm starting to study **Linux**
-- 📚 Next up on my learning path: **HTTP, JSON, SQL, SQLite, PostgreSQL, REST APIs, FastAPI, JWT, Hashing, Docker & Deployment**
+- 🌱 Currently learning backend development with Python.
+
+- 🚀 I´m learning - Python · Linux · HTTP · JSON · SQL · SQLite · PostgreSQL · REST APIs · FastAPI · JWT · Hashing · Docker · Deployment
+
 
 ---
 
